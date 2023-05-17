@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9a0f43e4-b7fa-4401-891c-7ed96e629eb3": {
+      "ProjectGuid": "9a0f43e4-b7fa-4401-891c-7ed96e629eb3",
+      "DisplayName": "2 player ChatGPT Scrabble",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
